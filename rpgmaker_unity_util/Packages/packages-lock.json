@@ -1,4 +1,10 @@
 {
   "dependencies": {
+    "com.albacrow.rpgmakerunityutil": {
+      "version": "file:sample",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    }
+  }
 }
- }
